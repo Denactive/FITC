@@ -1,2 +1,15 @@
+rk-2/myvenv
+rk-2/.idea/
+rk-2/.vscode/
+rk-2/*.pyc
+rk-2/__pycache__/
+rk-2/rk-2/__pycache__/
+rk-2/requirements.txt
+.idea/
+.vscode/
+*.pyc
+
 */__pycache__/
-*/*/__pycache__/
+*/**/__pycache__/
+
+*/*.docx
