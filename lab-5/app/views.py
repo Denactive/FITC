@@ -1,6 +1,6 @@
 from django.shortcuts import render
-from rk_app.models import Library
-from rk_app.models import Disk
+from app.models import Library
+from app.models import Disk
 
 def index_page_router(request):
   return render(request, 'index.html', {"items": Disk.objects.all()})

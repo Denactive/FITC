@@ -1,13 +1,14 @@
-rk-2/myvenv
-rk-2/.idea/
-rk-2/.vscode/
-rk-2/*.pyc
-rk-2/__pycache__/
-rk-2/rk-2/__pycache__/
-rk-2/requirements.txt
+*/myvenv
+*/venv
+*/.idea/
+*/.vscode/
+*/*.pyc
+*/requirements.txt
 .idea/
 .vscode/
 *.pyc
+**/node_modules/
+**/package-lock.json
 
 */__pycache__/
 */**/__pycache__/
