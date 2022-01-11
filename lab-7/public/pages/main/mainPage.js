@@ -1,4 +1,3 @@
-// import ButtonComponent from '../../components/button/button.js';
 import DiskCardComponent from '../../components/DiskCard/DiskCard.js';
 import DiskPage from '../../pages/disk/diskPage.js';
 import urls from '../../module/urls.js';
