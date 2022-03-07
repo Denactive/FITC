@@ -34,15 +34,6 @@ function App() {
   return (
     <BrowserRouter basename="/">
       <div>
-        {/* <ul>
-          <li>
-            <Link to="/">Старт</Link>
-          </li>
-          <li>
-            <Link to="/new">Хочу на страницу с чем-то новеньким</Link>
-          </li>
-        </ul>
-        <hr /> */}
         <Routes>
           {/* <Route path="/" element={<StartPage/>}/> */}
           <Route path="/" element={<MainPage loading={loading} disks={disks}/>}/>

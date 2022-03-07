@@ -3,7 +3,6 @@
 */.idea/
 */.vscode/
 */*.pyc
-*/requirements.txt
 .idea/
 .vscode/
 *.pyc
